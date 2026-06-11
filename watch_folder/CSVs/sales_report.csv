@@ -1,0 +1,22 @@
+id,name,department,salary,join_date,status
+1,Employee_1,Operations,85403,2023-07-28,Active
+2,Employee_2,,73243,2020-05-02,
+3,Employee_3,Finance,91072,2023-03-24,
+4,Employee_4,Operations,71414,2022-03-21,Active
+5,Employee_5,Marketing,,2020-06-23,Active
+6,Employee_6,HR,71015,2022-08-27,Inactive
+7,,,39433,2022-08-19,
+8,Employee_8,Engineering,61339,2024-12-04,On Leave
+9,Employee_9,Marketing,30963,2023-07-04,
+10,Employee_10,Engineering,,2020-12-01,Inactive
+11,Employee_11,Operations,62863,2023-05-25,
+12,Employee_12,HR,44901,2021-07-11,
+13,Employee_13,Operations,84082,2024-07-05,Inactive
+14,,Marketing,90410,2024-11-23,Active
+15,Employee_15,Marketing,,2022-02-05,Inactive
+16,Employee_16,Marketing,78458,2021-12-27,On Leave
+17,Employee_17,HR,48115,2021-05-27,Active
+18,Employee_18,Operations,49021,2021-08-17,
+19,Employee_19,Marketing,45078,2020-07-06,On Leave
+20,Employee_20,Engineering,,2023-06-24,Active
+1,Employee_1,Engineering,75000,2022-03-15,Active

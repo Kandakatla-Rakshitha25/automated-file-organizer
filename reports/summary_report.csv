@@ -1,0 +1,4 @@
+source,raw_rows,raw_cols,null_cells_before,duplicate_rows,clean_rows,null_cells_after,rows_removed,cleaned_at
+employees_q1,36,6,32,0,36,0,0,2026-06-11T06:30:36
+inventory,26,6,25,0,26,0,0,2026-06-11T06:30:36
+sales_report,21,6,15,0,21,0,0,2026-06-11T06:30:36
