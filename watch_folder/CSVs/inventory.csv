@@ -1,0 +1,27 @@
+id,name,department,salary,join_date,status
+1,Employee_1,,49746,2021-03-19,Active
+2,Employee_2,Operations,81660,2023-01-03,
+3,Employee_3,Marketing,58923,2022-09-03,Active
+4,Employee_4,Engineering,39839,2022-10-27,
+5,Employee_5,HR,,2023-11-11,On Leave
+6,Employee_6,,111674,2023-06-12,Inactive
+7,,,41096,2024-02-24,Active
+8,Employee_8,,57997,2021-11-08,
+9,Employee_9,HR,103751,2024-02-06,
+10,Employee_10,Engineering,,2024-05-23,
+11,Employee_11,Finance,39884,2020-10-21,Active
+12,Employee_12,Engineering,70257,2022-10-27,
+13,Employee_13,Engineering,110541,2022-01-25,Inactive
+14,,Marketing,100274,2021-01-15,
+15,Employee_15,Finance,,2022-06-19,On Leave
+16,Employee_16,Engineering,76551,2023-02-20,On Leave
+17,Employee_17,HR,118062,2021-09-03,
+18,Employee_18,Engineering,40859,2024-08-16,
+19,Employee_19,HR,117409,2021-05-03,Active
+20,Employee_20,Marketing,,2021-04-20,Inactive
+21,,Operations,76477,2024-11-20,
+22,Employee_22,Marketing,58390,2020-04-26,On Leave
+23,Employee_23,,88553,2023-05-23,On Leave
+24,Employee_24,Engineering,64854,2022-02-22,
+25,Employee_25,,,2023-09-22,Inactive
+1,Employee_1,Engineering,75000,2022-03-15,Active
